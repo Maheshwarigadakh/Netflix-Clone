@@ -88,3 +88,6 @@ input {
     margin-left: 10px;
     background-color: red;
 }
+.separarion {
+    border-bottom: 8px solid rgba(128,128,128,0.3);
+}
