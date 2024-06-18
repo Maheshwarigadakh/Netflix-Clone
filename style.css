@@ -64,3 +64,27 @@ p {
     font-size: 20px;
     font-weight: 600;
 }
+form {
+    display: flex;
+}
+.btn1{
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: white;
+}
+input {
+    background-color: rgba(23, 23, 23, 0.3);
+    padding: 7px;
+    margin-left: 450px;
+    height: 40px;
+    width: 370px;
+    border: 1px solid white;
+}
+
+.start-btn {
+    height: 60px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: red;
+}
