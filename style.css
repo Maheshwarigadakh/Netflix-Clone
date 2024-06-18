@@ -163,5 +163,8 @@ input {
     justify-content: space-around;
     margin-left: 200px;
     justify-content: start;
-    padding: 20px;
+    padding: 10px;
+}
+ul{
+    padding: 5px;
 }
