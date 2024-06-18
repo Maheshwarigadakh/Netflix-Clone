@@ -117,3 +117,30 @@ input {
 .right {
     margin-top: 80px;
 }
+.que-ask{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    margin-bottom: 70px;
+
+}
+.Questions{
+    height: 35px;
+    width: 70%;
+    margin: auto;
+    font-size: 27px;
+    font-weight: 500;
+    padding: 20px 0px 10px 30px;
+    background-color: rgba(128,128,128,0.5);
+    margin-bottom: 20px;    
+}
+.Questions > img{
+    margin-left: 750px;
+    height: 20px;
+    width: 20px;
+}
+.plus-sign{
+    padding-left: 200px;
+}
+
