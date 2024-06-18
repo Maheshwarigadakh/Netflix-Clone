@@ -133,12 +133,16 @@ input {
     font-size: 27px;
     font-weight: 500;
     padding: 20px 0px 10px 30px;
-    background-color: rgba(128,128,128,0.5);
+    background-color: rgba(74, 72, 72, 0.5);
     margin-bottom: 10px; 
-    cursor: pointer;   
+    cursor: pointer;  
+    justify-content: space-around; 
 }
 .quebox{
     justify-content: space-around;
+}
+.Questions:hover{
+    background-color: rgb(89, 86, 86);
 }
 .Questions > img{
     height: 20px;
@@ -147,4 +151,17 @@ input {
 .para{
     padding-top: 30px;
     margin-left: 400px;
+}
+.form1{
+    margin-bottom: 50px;
+}
+.footer-para{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.footer{
+    justify-content: space-around;
+    margin-left: 200px;
+    justify-content: start;
+    padding: 20px;
 }
