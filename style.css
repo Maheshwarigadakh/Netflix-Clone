@@ -91,3 +91,29 @@ input {
 .separarion {
     border-bottom: 8px solid rgba(128,128,128,0.3);
 }
+.img-detail {
+    display: flex;
+    justify-content: space-around;
+    max-width: 63vw;
+    margin: auto;
+}
+
+.left {
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 170px;
+    padding-bottom: 220px;
+}
+
+.heading1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.info {
+    font-weight: 100;
+}
+
+.right {
+    margin-top: 80px;
+}
