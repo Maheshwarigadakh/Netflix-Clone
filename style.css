@@ -87,6 +87,7 @@ input {
     width: 200px;
     margin-left: 10px;
     background-color: red;
+    cursor: pointer;
 }
 .separarion {
     border-bottom: 8px solid rgba(128,128,128,0.3);
@@ -122,25 +123,24 @@ input {
     text-align: center;
     font-size: 60px;
     font-weight: 900;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
 
 }
 .Questions{
-    height: 35px;
+    height: 40px;
     width: 70%;
     margin: auto;
     font-size: 27px;
     font-weight: 500;
     padding: 20px 0px 10px 30px;
     background-color: rgba(128,128,128,0.5);
-    margin-bottom: 20px;    
+    margin-bottom: 10px; 
+    cursor: pointer;   
+}
+.quebox{
+    justify-content: space-around;
 }
 .Questions > img{
-    margin-left: 750px;
     height: 20px;
     width: 20px;
 }
-.plus-sign{
-    padding-left: 200px;
-}
-
