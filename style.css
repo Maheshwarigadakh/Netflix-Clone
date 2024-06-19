@@ -116,9 +116,12 @@ input {
 .info {
     font-weight: 100;
 }
+.right > img{
+    margin-top: 100px;
+}
 
-.right {
-    margin-top: 80px;
+video{
+    margin-top: 150px;
 }
 .que-ask{
     margin-top: 60px;
@@ -140,11 +143,24 @@ input {
     cursor: pointer;  
     justify-content: space-around; 
 }
-.quebox{
+.first{
+padding-left: 760px;
+}
+.second{
+    padding-left: 630px;   
+}
+.third{
+    padding-left: 740px;
+}
+.fourth{
+    padding-left: 660px;
+}
+.box{
     justify-content: space-around;
 }
 .Questions:hover{
     background-color: rgb(89, 86, 86);
+    transition: 2s;
 }
 .Questions > img{
     height: 20px;
@@ -168,7 +184,7 @@ input {
 .footer{
     margin-left: 200px;
     padding: 10px;
-    text-decoration: 0.5 solid white;
+    text-decoration: 1px solid white;
 }
 ul{
     padding: 5px;
